@@ -1,0 +1,16 @@
+current directory: /Users/YY/Flatiron/M2/lab/sinatra-ar-crud-lab-nyc-web-062518/.bundle/gems/bond-0.5.1/ext/readline_line_buffer
+/Users/YY/.rvm/rubies/ruby-2.5.0/bin/ruby -r ./siteconf20180718-52182-ljft5u.rb extconf.rb
+
+current directory: /Users/YY/Flatiron/M2/lab/sinatra-ar-crud-lab-nyc-web-062518/.bundle/gems/bond-0.5.1/ext/readline_line_buffer
+make "DESTDIR=" clean
+make: *** No rule to make target `clean'.  Stop.
+
+current directory: /Users/YY/Flatiron/M2/lab/sinatra-ar-crud-lab-nyc-web-062518/.bundle/gems/bond-0.5.1/ext/readline_line_buffer
+make "DESTDIR="
+echo "This is a dummy extension"
+This is a dummy extension
+
+current directory: /Users/YY/Flatiron/M2/lab/sinatra-ar-crud-lab-nyc-web-062518/.bundle/gems/bond-0.5.1/ext/readline_line_buffer
+make "DESTDIR=" install
+echo "This is a dummy extension"
+This is a dummy extension
